@@ -10,7 +10,7 @@ btnHamburger.addEventListener('click', function(){
   console.log('btnHamburger clicked!');
 
   if(header.classList.contains('open')){ //fecha
-    body.classList.add('noscroll');
+    body.classList.remove('noscroll');
     header.classList.remove('open');
     fadeElems.forEach(function(element){
       if (element.classList.contains ('tem-delay')){
