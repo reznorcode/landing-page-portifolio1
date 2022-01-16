@@ -238,7 +238,7 @@ button, .button {
       align-items: center; } }
   .hero__image {
     position: relative;
-    background-image: url("images/bg-intro-mobile.svg");
+    background-image: url("https://raw.githubusercontent.com/reznorcode/landing-page-portifolio1/main/images/bg-intro-mobile.svg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -270,7 +270,7 @@ button, .button {
       position: absolute;
       height: 100%;
       width: 100%;
-      background-image: url("images/image-mockups.png");
+      background-image: url("https://raw.githubusercontent.com/reznorcode/landing-page-portifolio1/main/images/image-mockups.png");
       background-size: 93%;
       background-repeat: no-repeat;
       background-position: center bottom;
