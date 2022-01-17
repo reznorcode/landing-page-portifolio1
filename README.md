@@ -1,13 +1,12 @@
-# landing-page-portifolio1
 <img src="images/demo1.png">
 
-# Nome Do Projeto
+# Primeiro landing page concluído.
 
 Landing page responsiva para meu primeiro repósitório do github, apenas explorando até onde vai o meu conhecimento.
 
-## 🔧 Funçoes (opcional)
+## 🔧 Funções
 
-### Função
+### Responsivo
 - Suporte resposivo para smartphones, tablets
 
 <img src="images/mockup1.png">
@@ -33,7 +32,6 @@ Projeto pessoal de portifólio, privado, sorry.
 
 ### Contato
 
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/seu-server)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-dequi-liotto/)
 
 <p align="center">Copyright © 2021 Igor Dequi Liotto</p>
