@@ -1,14 +1,18 @@
 # landing-page-portifolio1
-<img src="images/1.png">
+<img src="images/demo1.png">
 
 # Nome Do Projeto
 
-Landing page responsiva para portifólio 1, apenas explorando até onde vai o meu conhecimento.
+Landing page responsiva para meu primeiro repósitório do github, apenas explorando até onde vai o meu conhecimento.
 
 ## 🔧 Funçoes (opcional)
 
 ### Função
 - Suporte resposivo para smartphones, tablets e desktops.
+
+<img src="images/mockup1.png">
+
+<img src="images/mockup2.png">
 
 ## Feito Com:
 [![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
